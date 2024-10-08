@@ -1,6 +1,7 @@
 ## About me 
 
-<h1 align="left">Hi 👋 This is Chaehee Min, a college student who is learning programming</h1>
+<h1 align="left">Hi 👋 This is Chaehee Min,</h1>
+<h1 align="left">Hi a college student who is learning programming</h1>
 <h3 align="left">I hope you have a fulfilling day with no greats!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaeheemin7&label=Profile%20views&color=0e75b6&style=flat" alt="chaeheemin7" /> </p>
